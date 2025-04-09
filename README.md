@@ -1,8 +1,6 @@
 # 🎥 videoFlow  
 Reprodutor de vídeos moderno, leve e responsivo, desenvolvido com Vite.  
 Veja em produção: [video-flow-wine.vercel.app](https://video-flow-wine.vercel.app)  
-![Capa do projeto](./thumb.png)
-
 ---
 
 ## 📌 Sobre o Projeto  
