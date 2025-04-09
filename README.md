@@ -16,16 +16,6 @@ O **videoFlow** é um player de vídeo customizado, com foco em performance e de
 
 ---
 
-# Como rodar localmente  
-git clone https://github.com/Andre-StudioNerd/videoFlow.git  
-cd videoFlow  
-npm install  
-npm run dev  
-# Acesse em: http://localhost:5173/  
-\`\`\`
-
----
-
 ## 🤝 Contribuindo  
 Contribuições são muito bem-vindas!  
 1. Faça um fork do projeto  
